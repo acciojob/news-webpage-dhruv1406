@@ -3,7 +3,7 @@ body{
 	background:#f5f5f5;
 	min-height: 100vh;
 }
-.heading{
+#heading{
 	background: #011e29;
 	color: white;
 	text-align: center;
